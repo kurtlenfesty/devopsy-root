@@ -27,7 +27,7 @@ The purpose of these projects is to demonstrate some key technologies in Java, J
 
 # Issues
 
-Issues are tracked with a public Trello board (so you can see how issues are tracked). It can be viewed at (Kurt Lenfesty Portfolio)[https://trello.com/b/2dOLxwYu/kurt-lenfesty-portfolio-2018].
+Issues are tracked with a public Trello board (so you can see how issues are tracked). It can be viewed at [Kurt Lenfesty Portfolio 2018](https://trello.com/b/2dOLxwYu/kurt-lenfesty-portfolio-2018).
 
 ## Streams of work
 
@@ -59,9 +59,9 @@ Tasks related to the API structure itself, which can include work on AWS API Gat
 
 Tasks related to back-end services, including database structures. This includes back-end tests.
 
-# License
+# Licence
 
-The current license is (GPL v3)[https://www.gnu.org/licenses/gpl-3.0.en.html], but since I wrote the code I could change that license (as long as I haven't incorporated somone else's code with a different license).
+The current licence is [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html), but since I wrote the code I could change that licence (as long as I haven't incorporated somone else's code with a different licence).
 
 # Copyright
 
